@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "pycolor_palette-loguru"
+version = "0.1.2"
+description = "Python library for color beautiful output and logging"
+authors = ["Alexeev Bronislav <alexeev.dev@inbox.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+rich = "^13.8.1"
+ruff = "^0.6.8"
+loguru = "^0.7.2"
+pygments = "^2.18.0"
+colorama = "^0.4.6"
+executing = "^2.1.0"
+asttokens = "^2.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
