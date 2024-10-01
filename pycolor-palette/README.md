@@ -1,3 +1,4 @@
+@mainfile
 # PyColor-palette
 This library is designed to display text using colors and formatting, as well as logging and debugging. Debugging is done using logger.
 

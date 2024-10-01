@@ -1,4 +1,15 @@
 # PyColor-palette
+
+<p align="center">
+	<img src="https://img.shields.io/github/languages/top/alexeev-prog/libnumerixpp?style=for-the-badge">
+	<img src="https://img.shields.io/github/languages/count/alexeev-prog/libnumerixpp?style=for-the-badge">
+	<img src="https://img.shields.io/github/license/alexeev-prog/libnumerixpp?style=for-the-badge">
+	<img src="https://img.shields.io/github/stars/alexeev-prog/libnumerixpp?style=for-the-badge">
+	<img src="https://img.shields.io/github/issues/alexeev-prog/libnumerixpp?style=for-the-badge">
+	<img src="https://img.shields.io/github/last-commit/alexeev-prog/libnumerixpp?style=for-the-badge">
+	[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+</p>
+
 This library is designed to display text using colors and formatting, as well as logging and debugging. Debugging is done using logger.
 
 Used projects: [icecream source code](https://github.com/gruns/icecream) and [loguru module](https://github.com/Delgan/loguru)
